@@ -1,16 +1,43 @@
-## Hi there 👋
+## 👋 Hi, I’m Shrish
 
-<!--
-**sk27199/sk27199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring **Cyber Security/Software Apprentice** based in London.
 
-Here are some ideas to get you started:
+I come from a **Business and Management** background and transitioned into tech through
+**self-study and hands-on projects**, focusing on understanding how systems work rather
+than just learning syntax.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Skills
+- **Python** (OOP, error handling, APIs, GUI, backend logic)
+- **SQL / SQLite** (databases, secure data storage)
+- **HTML & CSS** (personal portfolio website)
+- **Cyber Security fundamentals** (port scanning, password hashing, ethical awareness)
+
+### 📌 Featured Projects
+- 🌦 **Weather App (Python + API + GUI)**  
+  Desktop application that fetches live weather data, handles API errors, and displays
+  results through a graphical user interface.
+
+- 🔐 **Python + SQL Password System**  
+  Backend-focused project demonstrating secure password hashing and database storage
+  using Python and SQLite.
+
+- 🔍 **Port Scanner (Python)**  
+  A security-focused project that scans open ports on a target system to understand
+  network exposure, built with an emphasis on ethical and responsible use.
+
+- 🌐 **HTML/CSS Portfolio Website**  
+  A personal website showcasing my projects, skills, and learning journey.
+
+👉 View my projects: **https://github.com/sk27199**
+
+### 🛡 Security & Professional Development
+- Upcoming **Level 3 Certificate in Cyber Security Practices (NCFE)**
+- Upcoming **SIA CCTV Licence**, focusing on data protection, compliance,
+  and responsible monitoring
+
+### 🎯 Goal
+I’m actively applying for **Level 4 and Degree Apprenticeships** in:
+- Cyber Security
+- Software Engineering
+
+📍 London, UK
