@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Shrish
 
-I’m an aspiring **Cyber Security/Software Apprentice** based in London.
+I’m an aspiring **Cyber Security Apprentice** based in London.
 
 I come from a **Business and Management** background and transitioned into tech through
 **self-study and hands-on projects**, focusing on understanding how systems work rather
@@ -38,6 +38,5 @@ than just learning syntax.
 ### 🎯 Goal
 I’m actively applying for **Level 4 and Degree Apprenticeships** in:
 - Cyber Security
-- Software Engineering
 
 📍 London, UK
